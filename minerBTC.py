@@ -15,9 +15,9 @@ from datetime import datetime
 # ============= KONFIGURASI YANG MULIA =============
 YANG_MULIA = "Putri Incha"
 DOMPET_DIGITAL = {
-    "bidget_wallet": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
-    "speedwallet": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
-    "phantom_wallet": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+    "bidget_wallet": "1Ga2SQKYQ1Ge8zUoHp2UTZmvwbY5SByz5K",
+    "speedwallet": "bc1q5peufwpqyp37883mp03dn7w70zrl4kqyggy0ak",
+    "phantom_wallet": "bc1pzff3n86sgu73wfrk2hmuug972lr4a2cv3tnhutx8hshu698my86s7qc0ch",
     "faucet_pay": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
 }
 
