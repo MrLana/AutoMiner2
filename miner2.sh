@@ -26,7 +26,7 @@ echo ""
 
 # ============ KONFIGURASI YANG MULIA ============
 # 🔴🔴🔴 GANTI INI DENGAN ALAMAT DOMPET BTC ASLI YANG MULIA! 🔴🔴🔴
-ALAMAT_BTC="bc1qputriinchatriponitrome"
+ALAMAT_BTC="1Ga2SQKYQ1Ge8zUoHp2UTZmvwbY5SByz5K"
 NAMA_WORKER="incha_kerajaan"
 # ================================================
 
